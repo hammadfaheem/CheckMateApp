@@ -1,8 +1,3 @@
-Absolutely, Hammad! Here’s a polished and beginner-friendly `README.md` for your **CheckMate** project — tailored to new visitors and potential collaborators on GitHub. It includes a project overview, features, folder structure, setup instructions, and contribution notes.
-
----
-
-```markdown
 # 🧠 CheckMate – Say No to Manual Grading!
 
 CheckMate is an AI-powered assignment evaluation platform designed to automate grading, generate instant feedback, and track student performance — built to modernize education and reduce teacher workload.
@@ -17,7 +12,8 @@ CheckMate is an AI-powered assignment evaluation platform designed to automate g
 - 🤖 AI-Based Grading with Custom Rubrics
 - 💬 Personalized Feedback for Each Answer
 - 📊 Performance Analytics & Student Progress
-- 🤖 Plagiarsm and AI Detection
+- 🔐 Secure Login with Role-Based Access
+- 🌐 Admin, Teacher, and Student Dashboards
 
 ---
 
@@ -128,14 +124,3 @@ Built with ❤️ by [Hammad Faheem](https://github.com/hammadfaheem)
 For questions, feel free to open an issue or reach out on LinkedIn.
 
 ---
-
-```
-
----
-
-Let me know if you'd like:
-- A `requirements.txt` generated from the code
-- To style this with Markdown badges and visuals
-- A live demo or deployment guide (e.g., Vercel, Streamlit Cloud)
-
-Happy to set it all up!
