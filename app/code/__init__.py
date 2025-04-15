@@ -1,0 +1,1 @@
+from  .plagiarsm import PlagiarismDetector
